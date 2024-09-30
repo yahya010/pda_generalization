@@ -1,0 +1,502 @@
+[
+  {
+    "lemma": "to go",
+    "number_marker": "it",
+    "inflected_form": "goes"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "it",
+    "inflected_form": "is"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "they",
+    "inflected_form": "have"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "he",
+    "inflected_form": "has"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "they",
+    "inflected_form": "eat"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "they",
+    "inflected_form": "have"
+  },
+  {
+    "lemma": "to go",
+    "number_marker": "she",
+    "inflected_form": "goes"
+  },
+  {
+    "lemma": "to go",
+    "number_marker": "he",
+    "inflected_form": "goes"
+  },
+  {
+    "lemma": "to go",
+    "number_marker": "they",
+    "inflected_form": "go"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "they",
+    "inflected_form": "eat"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "they",
+    "inflected_form": "are"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "they",
+    "inflected_form": "eat"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "she",
+    "inflected_form": "eats"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "she",
+    "inflected_form": "has"
+  },
+  {
+    "lemma": "to go",
+    "number_marker": "she",
+    "inflected_form": "goes"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "she",
+    "inflected_form": "is"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "they",
+    "inflected_form": "eat"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "they",
+    "inflected_form": "are"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "she",
+    "inflected_form": "is"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "it",
+    "inflected_form": "is"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "they",
+    "inflected_form": "are"
+  },
+  {
+    "lemma": "to go",
+    "number_marker": "she",
+    "inflected_form": "goes"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "she",
+    "inflected_form": "has"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "they",
+    "inflected_form": "eat"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "he",
+    "inflected_form": "is"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "she",
+    "inflected_form": "is"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "she",
+    "inflected_form": "eats"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "she",
+    "inflected_form": "eats"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "they",
+    "inflected_form": "are"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "they",
+    "inflected_form": "have"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "she",
+    "inflected_form": "is"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "he",
+    "inflected_form": "is"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "he",
+    "inflected_form": "has"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "they",
+    "inflected_form": "are"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "she",
+    "inflected_form": "is"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "he",
+    "inflected_form": "is"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "she",
+    "inflected_form": "eats"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "she",
+    "inflected_form": "has"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "it",
+    "inflected_form": "eats"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "they",
+    "inflected_form": "have"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "he",
+    "inflected_form": "has"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "he",
+    "inflected_form": "is"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "we",
+    "inflected_form": "are"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "they",
+    "inflected_form": "eat"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "she",
+    "inflected_form": "has"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "they",
+    "inflected_form": "are"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "they",
+    "inflected_form": "are"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "they",
+    "inflected_form": "have"
+  },
+  {
+    "lemma": "to go",
+    "number_marker": "he",
+    "inflected_form": "goes"
+  },
+  {
+    "lemma": "to go",
+    "number_marker": "they",
+    "inflected_form": "go"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "she",
+    "inflected_form": "is"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "he",
+    "inflected_form": "eats"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "he",
+    "inflected_form": "has"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "he",
+    "inflected_form": "has"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "they",
+    "inflected_form": "are"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "we",
+    "inflected_form": "are"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "we",
+    "inflected_form": "have"
+  },
+  {
+    "lemma": "to go",
+    "number_marker": "they",
+    "inflected_form": "go"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "they",
+    "inflected_form": "eat"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "she",
+    "inflected_form": "has"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "she",
+    "inflected_form": "has"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "we",
+    "inflected_form": "have"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "he",
+    "inflected_form": "is"
+  },
+  {
+    "lemma": "to go",
+    "number_marker": "they",
+    "inflected_form": "go"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "they",
+    "inflected_form": "are"
+  },
+  {
+    "lemma": "to go",
+    "number_marker": "they",
+    "inflected_form": "go"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "she",
+    "inflected_form": "has"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "she",
+    "inflected_form": "has"
+  },
+  {
+    "lemma": "to go",
+    "number_marker": "they",
+    "inflected_form": "go"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "she",
+    "inflected_form": "eats"
+  },
+  {
+    "lemma": "to go",
+    "number_marker": "he",
+    "inflected_form": "goes"
+  },
+  {
+    "lemma": "to go",
+    "number_marker": "he",
+    "inflected_form": "goes"
+  },
+  {
+    "lemma": "to go",
+    "number_marker": "he",
+    "inflected_form": "goes"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "he",
+    "inflected_form": "is"
+  },
+  {
+    "lemma": "to go",
+    "number_marker": "he",
+    "inflected_form": "goes"
+  },
+  {
+    "lemma": "to go",
+    "number_marker": "it",
+    "inflected_form": "goes"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "they",
+    "inflected_form": "are"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "they",
+    "inflected_form": "eat"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "we",
+    "inflected_form": "are"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "he",
+    "inflected_form": "eats"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "he",
+    "inflected_form": "is"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "she",
+    "inflected_form": "has"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "he",
+    "inflected_form": "has"
+  },
+  {
+    "lemma": "to go",
+    "number_marker": "they",
+    "inflected_form": "go"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "she",
+    "inflected_form": "has"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "they",
+    "inflected_form": "are"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "they",
+    "inflected_form": "are"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "she",
+    "inflected_form": "is"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "he",
+    "inflected_form": "eats"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "they",
+    "inflected_form": "have"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "she",
+    "inflected_form": "is"
+  },
+  {
+    "lemma": "to go",
+    "number_marker": "they",
+    "inflected_form": "go"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "they",
+    "inflected_form": "eat"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "they",
+    "inflected_form": "are"
+  },
+  {
+    "lemma": "to have",
+    "number_marker": "it",
+    "inflected_form": "has"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "she",
+    "inflected_form": "eats"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "she",
+    "inflected_form": "is"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "they",
+    "inflected_form": "are"
+  },
+  {
+    "lemma": "to be",
+    "number_marker": "they",
+    "inflected_form": "are"
+  },
+  {
+    "lemma": "to eat",
+    "number_marker": "he",
+    "inflected_form": "eats"
+  }
+]
